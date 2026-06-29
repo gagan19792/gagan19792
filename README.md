@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Gagan+Ubbey!;Staff Engineer+|+Cloud+Architect+|+AI+Platform+Builder;Designing+Resilient+Distributed+Systems+&+Intelligent+Automation+at+Scale)](https://git.io/typing-svg)
+
 ## About Me
 
 * **Staff Software Engineer & Cloud Architect** — 18+ years designing scalable distributed systems
